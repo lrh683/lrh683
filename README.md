@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @lrh683
-- 👀 I’m interested in Blockchain, Lego, Art
-- 🌱 I’m currently learning Blockchain, Quant
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+[子川投资笔记](https://puretheta.net/)
 
-<!---
-lrh683/lrh683 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+这个账号是笔记周边小工具的工坊。
